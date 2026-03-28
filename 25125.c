@@ -10,7 +10,7 @@ int main() {
     FILE *fp;
     struct Student s;
 
-    fp = fopen("25377.txt", "r");
+    fp = fopen("25125.txt", "r");
 
     if (fp == NULL) {
         printf("Error: File not found!\n");
